@@ -36,3 +36,4 @@ RUN set -eux; \
 	rabbitmqadmin --version
 
 EXPOSE 15671 15672
+vamsi
